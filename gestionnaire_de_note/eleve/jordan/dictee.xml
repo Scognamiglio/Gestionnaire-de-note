@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eleve>
+	<info>
+		<nom>Belanger</nom>
+		<prenom>Jordan</prenom>
+		<classe>2ème année de DUT</classe>
+		<type>Lecture</type>
+		<lien>\dictées.odt</lien>
+		<correction>/home/maison/Dictées/c_dictée1.odt</correction>
+		<commentaire>je sais pas</commentaire>
+		<ecole>http://google.fr</ecole>
+	</info>
+	<exercices>
+
+		<exercice>
+			<date>1998/08/06 9:21</date>
+			<note>16/20</note>
+			<duree>20 ans</duree>
+			<commentaire>je sais pas</commentaire>
+			<resultat>/home/maison/Dictées/r_dictée1.odt</resultat>
+			<erreurs>		
+				<erreur>confond q et b</erreur>
+			</erreurs>
+		</exercice>
+
+		<exercice>
+			<date>1998/08/06 9:23</date>
+			<note>14/20</note>
+			<duree>30 ans</duree>
+			<commentaire>je sais pas</commentaire>
+			<resultat>/home/maison/Dictées/r_dictée1.odt</resultat>
+			<erreurs>		
+				<erreur>oublie les retenues</erreur>
+			</erreurs>
+		</exercice>
+
+		<exercice>
+			<date>1998/08/06 10:21</date>
+			<note>12/20</note>
+			<duree>20 ans</duree>
+			<commentaire>je sais pas</commentaire>
+			<resultat>/home/maison/Dictées/r_dictée1.odt</resultat>
+			<erreurs>		
+				<erreur></erreur>
+			</erreurs>
+		</exercice>
+
+		<exercice>
+			<date>1998/08/06 8:01</date>
+			<note>8/20</note>
+			<duree>20 ans</duree>
+			<commentaire>je sais pas</commentaire>
+			<resultat>/home/maison/Dictées/r_dictée1.odt</resultat>
+			<erreurs>		
+				<erreur></erreur>
+			</erreurs>
+		</exercice>
+
+		<exercice>
+			<date>1998/08/07 8:01</date>
+			<note>19/20</note>
+			<duree>20 ans</duree>
+			<commentaire>je sais pas</commentaire>
+			<resultat>/home/maison/Dictées/r_dictée1.odt</resultat>
+			<erreurs>		
+				<erreur></erreur>
+			</erreurs>
+		</exercice>
+
+		<exercice>
+			<date>1998/08/05 8:01</date>
+			<note>10/20</note>
+			<duree>20 ans</duree>
+			<commentaire>je sais pas</commentaire>
+			<resultat>/home/maison/Dictées/r_dictée1.odt</resultat>
+			<erreurs>		
+				<erreur></erreur>
+			</erreurs>
+		</exercice>
+
+		<exercice>
+			<date>1999/08/05 8:01</date>
+			<note>15/20</note>
+			<duree>20 ans</duree>
+			<commentaire>je sais pas</commentaire>
+			<resultat>/home/maison/Dictées/r_dictée1.odt</resultat>
+			<erreurs>		
+				<erreur></erreur>
+			</erreurs>
+		</exercice>
+		<exercice>
+			<date>2001/08/03 8:01</date>
+			<note>1/20</note>
+			<duree>20 ans</duree>
+			<commentaire>je sais pas</commentaire>
+			<resultat>/home/maison/Dictées/r_dictée1.odt</resultat>
+			<erreurs>		
+				<erreur></erreur>
+			</erreurs>
+		</exercice>
+		<exercice>
+			<date>2001/08/04 8:01</date>
+			<note>4/20</note>
+			<duree>20 ans</duree>
+			<commentaire>je sais pas</commentaire>
+			<resultat>/home/maison/Dictées/r_dictée1.odt</resultat>
+			<erreurs>		
+				<erreur></erreur>
+			</erreurs>
+		</exercice>
+		<exercice>
+			<date>2001/08/05 8:01</date>
+			<note>20/20</note>
+			<duree>20 ans</duree>
+			<commentaire>je sais pas</commentaire>
+			<resultat>/home/maison/Dictées/r_dictée1.odt</resultat>
+			<erreurs>		
+				<erreur></erreur>
+			</erreurs>
+		</exercice>
+
+	</exercices>
+
+</eleve>

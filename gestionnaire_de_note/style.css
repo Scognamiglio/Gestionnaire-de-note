@@ -1,0 +1,30 @@
+.test{
+
+text-align:center;
+
+}
+
+
+.btn{
+
+float:right;
+border:1px solid black;
+border-radius:8px;
+min-width:100px;
+text-align:center;
+background-color:#BDBDBD;
+}
+
+a{
+text-decoration:none;
+color:black;
+
+}
+
+.vide{
+	display:none; /* Desactiver l'existence d'un élément sur une page */
+} 
+
+.visible{
+	display:inline; /* rend visible un élément, mais ne renvoie pas à la ligne */
+}

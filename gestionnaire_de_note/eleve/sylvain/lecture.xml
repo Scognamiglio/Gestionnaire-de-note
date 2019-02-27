@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eleve>
+	<info>
+		<nom>Meunier</nom>
+		<prenom>Sylvain</prenom>
+		<classe>2ème année de DUT</classe>
+		<type>Lecture</type>
+		<lien>\dictées.odt</lien>
+		<correction>/home/maison/Dictées/c_dictée1.odt</correction>
+		<commentaire>je sais pas</commentaire>
+		<ecole>http://google.fr</ecole>
+	</info>
+	<exercices>
+
+		<exercice>
+			<date>1998/08/06 9:21</date>
+			<note>9/20</note>
+			<duree>20 ans</duree>
+			<commentaire>je sais pas</commentaire>
+			<resultat>/home/maison/Dictées/r_dictée1.odt</resultat>
+			<erreurs>		
+				<erreur>confond q et b</erreur>
+			</erreurs>
+		</exercice>
+
+		<exercice>
+			<date>1998/08/06 9:23</date>
+			<note>2/20</note>
+			<duree>30 ans</duree>
+			<commentaire>je sais pas</commentaire>
+			<resultat>/home/maison/Dictées/r_dictée1.odt</resultat>
+			<erreurs>		
+				<erreur>oublie les retenues</erreur>
+			</erreurs>
+		</exercice>
+
+		<exercice>
+			<date>1998/08/06 10:21</date>
+			<note>12/20</note>
+			<duree>20 ans</duree>
+			<commentaire>je sais pas</commentaire>
+			<resultat>/home/maison/Dictées/r_dictée1.odt</resultat>
+			<erreurs>		
+				<erreur></erreur>
+			</erreurs>
+		</exercice>
+
+	</exercices>
+
+</eleve>
